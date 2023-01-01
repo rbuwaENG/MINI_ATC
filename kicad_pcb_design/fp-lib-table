@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "LCD_16x2_fp")(type "KiCad")(uri "D:/dulshan/LCD_16x2")(options "")(descr ""))
+)
